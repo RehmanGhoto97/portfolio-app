@@ -80,7 +80,7 @@ const Banner = () => {
                   Know more
                 </motion.button>
 
-                <a href="./newResume.pdf">
+                <a href="./Resume.pdf">
                   {" "}
                   <motion.button
                     variants={SlidUp(0.3)}
