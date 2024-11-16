@@ -94,7 +94,7 @@ const Services = () => {
                   >
                     View Projects
                   </motion.button>
-                  <a href="./newResume.pdf">
+                  <a href="./Resume.pdf">
                     <motion.button
                       className="border border-white/50 rounded-lg px-4 text-xs md:text-base flex items-center gap-2 py-3"
                       variants={SlidUp(0.9)}
