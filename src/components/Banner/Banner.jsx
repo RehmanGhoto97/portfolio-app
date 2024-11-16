@@ -3,7 +3,7 @@
 import React from "react";
 import Image from "next/image";
 import grainImg from "./../../assets/grains.png";
-import main2Img from "./../../assets/re-banner.png";
+import main2Img from "./../../assets/re-banner-2.JPG";
 import { FiDownload } from "react-icons/fi";
 import { motion } from "framer-motion";
 import { SlidUp } from "./../Hero/Hero";
