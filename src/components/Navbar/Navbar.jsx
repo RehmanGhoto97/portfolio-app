@@ -81,7 +81,7 @@ const Navbar = () => {
               );
             })}
             <button className="btn ml-5">
-              <a href="./newResume.pdf">Get Resume</a>
+              <a href="./Resume.pdf">Get Resume</a>
             </button>
           </ul>
         </div>
