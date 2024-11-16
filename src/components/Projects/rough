@@ -1,0 +1,56 @@
+     
+     <!-- export const ProjCard = ({ ProjImg, heading, para, LiveLink, GitLink }) => {
+        return (
+          <div className="bg-black hover:red-shadow border-2 border-primary/80 p-4 rounded-xl hover:scale-110 duration-300 group space-y-5">
+            <Image
+              loading="lazy"
+              decoding="async"
+              data-nimg="1"
+              src={ProjImg}
+              alt="Project "
+              width={3264}
+              height={1836}
+              className="w-full"
+            />
+            <div className="space-y-2 p-4">
+              <h1>{heading}</h1>
+              <p className="text-sm line-clamp-2">{para}</p>
+            </div>
+            <div className="hidden group-hover:flex justify-around items-center duration-300">
+              <a target="_blank" href={LiveLink}>
+                <button className="border-2 border-white px-4 py-2 rounded-lg">
+                  Live
+                </button>
+              </a>
+              <a target="_blank" href={GitLink}>
+                <button className="btn">View Code</button>
+              </a>
+            </div>
+          </div>
+        );
+      };
+      -->
+     
+     
+     
+     <!-- <ProjCard
+            ProjImg={ProjImg1}
+            heading={"Project 1"}
+            para={"Lorem ipsum dolor sit amet consectetur adipisicing elit..."}
+            LiveLink={"https://prescripto-doctors-frontend-only.netlify.app/"}
+            GitLink={""}
+          />
+          <ProjCard
+            ProjImg={ProjImg2}
+            heading={"Project 2"}
+            para={"Lorem ipsum dolor sit amet consectetur adipisicing elit..."}
+            LiveLink={""}
+            GitLink={""}
+          />
+          <ProjCard
+            ProjImg={ProjImg3}
+            heading={"Project 3"}
+            para={"Lorem ipsum dolor sit amet consectetur adipisicing elit..."}
+            LiveLink={"https://hotel-management-system-mini.netlify.app/"}
+            GitLink={""}
+          />  -->

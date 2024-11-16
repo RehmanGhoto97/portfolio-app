@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .text-outline {
+    -webkit-text-stroke: 1px rgb(255, 0, 0);
+  }
+}
+
+@layer components {
+  .btn {
+    @apply bg-gradient-to-r from-primary to-primary/50 text-white font-bold py-2 px-4 rounded hover:red-shadow duration-300;
+  }
+}
+
+@layer utilities {
+  .red-shadow {
+    box-shadow: 0 0px 20px 5px rgb(255, 0, 0);
+  }
+}
+
+body {
+  background-color: black;
+}
