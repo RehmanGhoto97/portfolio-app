@@ -6,6 +6,16 @@ This is a personal portfolio web application built with **Next.js**, **React**, 
 
 ---
 
+## 🙋‍♂️ About Me
+
+I'm **Abdul Rehman**, a frontend developer passionate about building modern, fast, and accessible websites with React and Next.js.
+
+- 🌐 **Portfolio**: [portfolio-ar97.netlify.app](https://portfolio-ar97.netlify.app)
+- 📫 **Email**: [ghotogtk02@gmail.com](mailto:ghotogtk02@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/abdul-rehman-062715188](https://www.linkedin.com/in/abdul-rehman-062715188/)
+
+---
+
 ## 🧩 Tech Stack
 
 - ⚛️ **React.js** & **Next.js**
@@ -13,6 +23,16 @@ This is a personal portfolio web application built with **Next.js**, **React**, 
 - 📦 **Redux Toolkit** & **Axios**
 - 🚀 **Deployed on Netlify**
 - 🧠 SEO Metadata, Open Graph & Responsive Layout
+
+---
+
+## 🧠 Features
+
+- Responsive UI for all devices  
+- Modern layout with smooth animations  
+- SEO-friendly metadata and OG tags  
+- Project cards with live links  
+- Contact section with LinkedIn, WhatsApp & Email
 
 ---
 
