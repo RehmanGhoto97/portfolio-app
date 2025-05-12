@@ -1,0 +1,31 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@eslint/config-array": "^0.20.0",
+    "@eslint/object-schema": "^2.1.6",
+    "eslint": "^8.57.1",
+    "framer-motion": "^11.11.11",
+    "glob": "^11.0.2",
+    "lru-cache": "^11.1.0",
+    "next": "^14.2.17",
+    "react": "^18",
+    "react-countup": "^6.5.3",
+    "react-dom": "^18",
+    "react-icons": "^5.3.0",
+    "rimraf": "^6.0.1"
+  },
+  "devDependencies": {
+    "eslint-config-next": "^15.3.2",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
